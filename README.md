@@ -16,7 +16,7 @@ Users should be able to:
 
 ### What I learned
 
-Learned how to use Class based components, functional components, while also getting the hang of a life cycle method called componentDidMount. I learned that with this life cycle method I should used it for mostly data loading.
+Learned how to use Class based components, functional components, while also getting the hang of a life cycle method called componentDidMount. I learned that with this life cycle method I should used it for mostly data loading. Most importantly I wanted to practice my knowledge about using and setting state.
 
 ### Continued development
 
