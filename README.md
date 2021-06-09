@@ -1,3 +1,28 @@
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their current location
+
+### Links
+
+- Live Site URL: https://seasonslocation.netlify.app/
+
+### Built with
+
+- React JS
+- CSS
+- Flexbox
+- Semantic UI
+
+### What I learned
+
+Learned how to use Class based components, functional components, while also getting the hang of a life cycle method called componentDidMount. I learned that with this life cycle method I should used it for mostly data loading.
+
+### Continued development
+
+From here on I will try to make realistic apps and test out my knowledge on my react journey, I really love the organization of components andthe fact that React brings webpack and babel bundled together for easy use. I will dive deeper! 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
